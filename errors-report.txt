@@ -1,0 +1,67 @@
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical to R.
+Updated R2 symbol association from  to /2897d1a2-5323-46ce-971f-2be85095246b.
+Connected R1 pin 2 to Net-(J1-Pada2).
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Updated R2 properties.
+Connected R2 pin 1 to Net-(J2-Pad1).
+Connected R2 pin 2 to Net-(J2-Pad3).
+Add net Net-(J1-Pada2).
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical to R.
+Updated R3 symbol association from  to /ebe00a83-1cd2-43a6-8d5e-7cff8031e3c0.
+Updated R3 properties.
+Add net Net-(J1-Padb1).
+Connected R3 pin 1 to Net-(J1-Padb1).
+Add net Net-(J1-Padb2).
+Connected R3 pin 2 to Net-(J1-Padb2).
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical to R.
+Updated R4 symbol association from  to /3f95141e-e95d-432f-81b2-7f3e3a3a7496.
+Updated R4 properties.
+Connected R4 pin 1 to Net-(J2-Pad2).
+Connected R4 pin 2 to Net-(J2-Pad4).
+Add net Net-(J1-Pada1).
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_2x02_P2.54mm_Vertical to Conn_02x02_Row_Letter_First.
+Updated J1 symbol association from  to /0e26ea8a-0af0-419d-9fc3-33af891b6b58.
+Updated J1 properties.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_2x02_P2.54mm_Vertical to Conn_02x02_Odd_Even.
+Updated J2 symbol association from  to /e76e39d2-ebf0-4e93-a022-d19eae5dfd5f.
+Updated J2 properties.
+Add net Net-(J2-Pad1).
+Connected J2 pin 1 to Net-(J2-Pad1).
+Connected J2 pin 2 to Net-(J2-Pad2).
+Add net Net-(J2-Pad3).
+Connected J2 pin 3 to Net-(J2-Pad3).
+Add net Net-(J2-Pad4).
+Connected J2 pin 4 to Net-(J2-Pad4).
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical').
+Changed REF** reference designator to R1.
+Connected R1 pin 1 to Net-(J1-Pada1).
+Updated R1 properties.
+Add net Net-(J2-Pad2).
+Updated R1 symbol association from  to /def2c852-b4c0-4f29-b9bb-c8cba79ff22a.
+Changed R1 value from R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical to R.
+Warning: No net found for symbol J1 pin 2.
+Warning: No net found for symbol J1 pin 1.
+Warning: No net found for symbol J1 pin 3.
+Warning: No net found for symbol J1 pin 4.
+Error: J1 pad a1 not found in Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical.
+Error: J1 pad a2 not found in Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical.
+Error: J1 pad b1 not found in Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical.
+Error: J1 pad b2 not found in Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical.
+
+
+Info: Total warnings: 0, errors: 4.
